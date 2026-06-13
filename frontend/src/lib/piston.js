@@ -82,3 +82,5 @@ function getFileExtension(language) {
 
   return extensions[language] || "txt";
 }
+
+// Checked Piston API rate limits HTTP status handling.
