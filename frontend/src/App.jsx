@@ -31,3 +31,5 @@ function App() {
 }
 
 export default App;
+
+// Layout wrapper helps prevent flickering on initial auth load.
