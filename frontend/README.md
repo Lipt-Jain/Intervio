@@ -1,6 +1,6 @@
 # Frontend Application
 
-This directory contains the React/Vite frontend for the Talent IQ platform.
+This directory contains the React/Vite frontend for the Intervio platform.
 
 ## Setup
 Run \

@@ -1,4 +1,4 @@
-# Talent IQ (Intervio)
+# Intervio (Intervio)
 
 An interactive technical interviewing platform featuring live video calls, synchronized chat, and a collaborative code editor. Built with the MERN stack, Stream SDK, Clerk Authentication, and Piston API for code execution.
 
